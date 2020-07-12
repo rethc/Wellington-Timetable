@@ -1,7 +1,12 @@
 # Wellington-Timetable
 A simple Metlink bus tracking application to get real time info and updates
 
-Application is now unpublished on the Play Store due to new pricing plan on Google Map API services
+<span class="float-left text-red tooltipped tooltipped-n" aria-label="
+Application is now unpublished on the Play Store due to new pricing plan on Google Map API services and releae of the Official Metlink Commuter App"><%= octicon("alert") %></span>
+<div class="text-orange-light mb-2">
+  .text-orange-light on white
+</div>
+
 
 
 Instructions:
