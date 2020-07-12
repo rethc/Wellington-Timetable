@@ -1,6 +1,7 @@
 
 # Wellington-Timetable
 ![Google Play Store Logo](https://i.imgur.com/UidliTe.png)
+
 A simple Metlink bus and train tracking application to get real time info and updates
 
 ***Application is now unpublished on the Play Store due to new pricing plan on Google Map API services and releae of the Official Metlink Commuter App***
