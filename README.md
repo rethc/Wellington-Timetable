@@ -1,5 +1,5 @@
 
-# Wellington Timetable
+# Wellington Timetable (v2.3)
 ![Google Play Store Logo](https://i.imgur.com/UidliTe.png)
 
 A simple Metlink bus and train tracking application to get real time info and updates
