@@ -5,13 +5,14 @@ Wellington Timetable (v2.3)
 </h1>
 
 <p align="center">
-<img src="https://img.shields.io/badge/version-2.3-red" alt="@rethc/smooth-brew is on Version 1.0" />
+<img src="https://img.shields.io/badge/version-2.3-red" alt="@rethc/Wellington-Timetable is on Version 2.3" />
  <img src="https://img.shields.io/badge/installs-73-orange" alt="73 installs on google play store" />
   <a href="https://twitter.com/intent/follow?screen_name=ChesdaReth">
     <img src="https://img.shields.io/twitter/follow/ChesdaReth?label=ChesdaReth&style=social" alt="Follow @ChesdaReth" />
   </a>
 </p>
 
+<img src="http://iforce.co.nz/i/glgbze3b.ueg.png" alt="screenshot of wellington timetable app" />
 
 A simple Metlink bus and train tracking application to get real time information and updates
 
